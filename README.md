@@ -16,7 +16,7 @@ https://www.ceneo.pl/84514582#tab=reviews_scroll
 |opinion|div.js_product-review:not(.user-post--highlight)|opinion|
 |opinion ID|[data-entry-id]|opinion_id|
 |author|span.user-post__author-name|author|
-|recommendation|span.user-post__author-recomendation > em|recommendation|
+|recommendation|span.user-post__author-recomendation  > em|recommendation|
 |number of stars|span.user-post__score-count|stars|
 |content of opinion|div.user-post__text|content|
 |list of adventages|div.review-feature__item--positive|pros|
